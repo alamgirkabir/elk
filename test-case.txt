@@ -1,5 +1,1 @@
-2020-10-11T09:49:35Z INFO url: /action/1/user/1 execTime: 5001 userId: 3 projectId: 5 req: {"name":"nazmul", "age":30, "car":null} res: {  "employee": {"name":"sonoo", "salary":56000,"married":true}}
-2020-10-11T09:49:35Z INFO url: /action/1/user/1 execTime: 5001 userId: 4 projectId: 5 req: {"name":"nazmul", "age":30, "car":null} res: {  "employee": {"name":"sonoo", "salary":56000,"married":true}}
-2020-10-11T09:49:35Z INFO url: /action/1/user/1 execTime: 5001 userId: 5 projectId: 5 req: {"name":"nazmul", "age":30, "car":null} res: {  "employee": {"name":"sonoo", "salary":56000,"married":true}}
-2020-10-11T09:49:35Z INFO url: /action/1/user/1 execTime: 5001 userId: 5 projectId: 5 req: {"name":"nazmul", "age":30, "car":null} res: {  "employee": {"name":"sonoo", "salary":56000,"married":true}}
-2020-10-11T09:49:35Z INFO url: /action/1/user/1 execTime: 5001 userId: 7 projectId: 5 req: {"name":"nazmul", "age":30, "car":null} res: {  "employee": {"name":"sonoo", "salary":56000,"married":true}}
+2022-04-06 16:40:51 INFO org.apurba.web.interceptor.ServiceInterceptor postHandle 87 method: POST url: /users/?sort[sorted]=true&sort[unsorted]=true&sort[empty]=true&pageNumber=0&pageSize=0&unpaged=true&paged=true&offset=0 execTime: 31 userId: 0 projectId: 219 fileId: 0f8b57b4-6b7c-4d04-a06c-d57bc682a57a req: {"projectId":219,"fileId":"123"} res: {"responseCode":200}
