@@ -19,7 +19,9 @@ services:
       memlock:
         soft: -1
         hard: -1
-        
+    volumes:
+      - './es_data:/usr/share/elasticsearch/data'
+          
   kibana:
     container_name: kibana
     image: kibana:7.5.0
